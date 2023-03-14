@@ -1,0 +1,21 @@
+public class TodoItem {
+    private String text;
+    private boolean isComplete;
+
+    public TodoItem(String text) {
+        this.text = text;
+        this.isComplete = false;
+    }
+
+    public String getText() {
+        return text;
+    }
+
+    public boolean isComplete() {
+        return isComplete;
+    }
+
+    public void setComplete(boolean complete) {
+        isComplete = complete;
+    }
+}
