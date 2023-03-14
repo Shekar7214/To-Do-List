@@ -1,2 +1,3 @@
 # To-Do-List
 The aim of this project is to develop a to-do list application for Android devices using Android Studio. 
+The application will allow users to create, edit, and delete tasks, as well as categorize tasks based on their priority level. The app will utilize a local database to store tasks and their associated information. The user interface will be designed with modern and intuitive Material Design principles, and will feature easy navigation and clear visual cues to enhance user experience. The application will also include features such as push notifications and reminders to help users stay on top of their tasks. Overall, this project aims to provide a simple, effective, and visually appealing solution for managing tasks on-the-go.
